@@ -5,8 +5,7 @@
 **Full-stack Developer Intern**  
 Web · Mobile · AI-enabled Systems
 
-[Portfolio](https://portfolio-ken1301s-projects.vercel.app) · [LinkedIn](https://www.linkedin.com/in/tu%E1%BA%A5n-ki%E1%BB%87t-%C4%91%E1%97
--đỗ-lê-6a3674418/)
+[Portfolio](https://portfolio-ken1301s-projects.vercel.app) · [LinkedIn](https://www.linkedin.com/in/tu%E1%BA%A5n-ki%E1%BB%87t-%C4%91%E1%BB%97-l%C3%AA-6a3674418/)
 
 </div>
 
@@ -50,4 +49,4 @@ Source code for my personal engineering portfolio across web, mobile and AI-enab
 
 ## Connect
 
-[Portfolio](https://portfolio-ken1301s-projects.vercel.app) · [LinkedIn](https://www.linkedin.com/in/tu%E1%BA%A5n-kiệt-đỏ-lê-6a3674418/)
+[Portfolio](https://portfolio-ken1301s-projects.vercel.app) · [LinkedIn](https://www.linkedin.com/in/tu%E1%BA%A5n-ki%E1%BB%87t-%C4%91%E1%BB%97-l%C3%AA-6a3674418/)
