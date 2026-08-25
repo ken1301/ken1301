@@ -46,7 +46,3 @@ Web · Mobile · AI-enabled Systems
 **[Portfolio source](https://github.com/ken1301/Portfolio)** · **[Live site](https://portfolio-ken1301s-projects.vercel.app)**
 
 Source code for my personal engineering portfolio across web, mobile and AI-enabled systems.
-
-## Connect
-
-[Portfolio](https://portfolio-ken1301s-projects.vercel.app) · [LinkedIn](https://www.linkedin.com/in/tu%E1%BA%A5n-ki%E1%BB%87t-%C4%91%E1%BB%97-l%C3%AA-6a3674418/)
