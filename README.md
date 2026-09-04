@@ -14,7 +14,6 @@ Web · Mobile · AI-enabled Systems
 > 📍 Ho Chi Minh City, Vietnam  
 > 🎓 Software Engineering @ UIT  
 > 🔭 Currently building **DFriend** and **MediCare**
-> 
 > 💼 Open to **Full-stack Internship** opportunities
 
 ## Selected Work
