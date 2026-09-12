@@ -1,6 +1,6 @@
 <div align="center">
 
-# Tuấn Kiệt Đỗ Lê
+# Tuấn Kiệt 
 
 **Full-stack Developer Intern**  
 Web · Mobile · AI-enabled Systems
